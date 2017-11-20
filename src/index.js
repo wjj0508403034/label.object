@@ -1,3 +1,3 @@
 'use strict';
 
-//angular.module('label.object', ['huoyun.widget']);
+angular.module('label.object', ['huoyun.widget']);
